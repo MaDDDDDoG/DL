@@ -1,3 +1,3 @@
 # Deeplearning Book example
- use Keras TensorFlow
- MLP CNN RNN 
+use Keras TensorFlow  
+MLP CNN RNN 
